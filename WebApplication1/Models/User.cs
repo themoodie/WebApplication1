@@ -13,5 +13,7 @@ namespace WebApplication1.Models
         public string Email { get; set; }
         public virtual IEnumerable<Site> Sites { get; set; }
 
+        /** Comment this is the user class */
+
     }
 }
